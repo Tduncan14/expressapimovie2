@@ -1,4 +1,4 @@
-const movies = [
+const movies= [
     {  
       vote_count:6573,
       id:211672,
